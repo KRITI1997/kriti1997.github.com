@@ -20,7 +20,7 @@ detect anomalous machine behavior for predictive maintenance.
 - Investigated and developed an ensemble model using XGBoost and Random Forest for yield prediction modeling based on
 extracted features obtaining a R-square of 0.89.
 - Developed a web application using Flask for rapid model evaluation reducing testing time by 25%.
-- Evaluated the importance of different vegetation indices calculated from the multisprectal data in prediction modeling of yield and the realtionship between different nitrogen and cover crop treatments.
+- Evaluated the importance of different vegetation indices calculated from the multisprectal data in prediction modeling of yield and the relationship between different nitrogen and cover crop treatments.
   
 **Project Assistant, Active Robotic Sensing Laboratory @ NCSU (_Jan 2023 - Present_)**
 - Investigated photogrammetric methods such as Structure from Motion for 3D reconstruction from 2D crop images.
@@ -54,7 +54,7 @@ Implemented and trained a CVAE in PyTorch for image manipulation and morphing wi
 
 ### Deepfake Detection (Deep Learning)
 
-Extracted frames from the CelebDF dataset videos for dataset and  evaluated performance of Xception Network on the curated dataset optimizing the architecture to improve validation accuracy.Generated embeddings using FaceNet by using MTCNN for cropping and isolating the daces from the image frames and implemented triplet loss in PyTorch to improve the deepfake detection accuracy.
+Extracted frames from the CelebDF dataset videos for dataset and  evaluated performance of Xception Network on the curated dataset optimizing the architecture to improve validation accuracy.Generated embeddings using FaceNet by using MTCNN for cropping and isolating the faces from the image frames and implemented triplet loss in PyTorch to improve the deepfake detection accuracy.
 
 ### Image Blending using Laplacian Pyramid (Image Processing)
 
