@@ -34,6 +34,7 @@ extracted features obtaining a R-square of 0.89.
 **Research Assistant, ZEN Lab @ Indian Institute of Science (_July 2019 - May 2020_)**
 - Developed a wagon tracking algorithm using Bluetooth Low Energy technology.
 - Implemented RF acoustic localization to form a relay network of Bluetooth nodes and enable data transfer between nodes.
+
 ## Projects
 
 ### Acute Otitis Media Detection (Computer Vision)
@@ -52,7 +53,7 @@ Implemented and trained a CVAE in PyTorch for image manipulation and morphing wi
 ### Deepfake Detection (Deep Learning)
 Extracted frames from the CelebDF dataset videos for dataset and  evaluated performance of Xception Network on the curated dataset optimizing the architecture to improve validation accuracy.Generated embeddings using FaceNet by using MTCNN for cropping and isolating the daces from the image frames and implemented triplet loss in PyTorch to improve the deepfake detection accuracy.
 
-## Image Blending using Laplacian Pyramid (Image Processing)
+### Image Blending using Laplacian Pyramid (Image Processing)
 - Programmed gaussian and laplacian pyramid for image blending based on a binary mask provided by the user through a GUI
 created for selecting a ROI on image using roipoly library in python.
 - Tuned the parameters of gaussian kernel for smooth blending between two images.
