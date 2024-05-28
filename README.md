@@ -20,10 +20,13 @@ detect anomalous machine behavior for predictive maintenance.
 - Investigated and developed an ensemble model using XGBoost and Random Forest for yield prediction modeling based on
 extracted features obtaining a R-square of 0.89.
 - Developed a web application using Flask for rapid model evaluation reducing testing time by 25%.
+- Evaluated the importance of different vegetation indices calculated from the multisprectal data in prediction modeling of yield and the realtionship between different nitrogen and covercrop treatments.
+- 
 
 **Project Assistant, Active Robotic Sensing Laboratory @ NCSU (_Jan 2023 - Present_)**
 - Investigated photogrammetric methods such as Structure from Motion for 3D reconstruction from 2D crop images.
 - Implemented and performed comparative analysis of several NeRF based deep learning pipelines on custom dataset.
+- Analysed the 3D point clouds generated from COLMAP to ascertain views and directions with incorrect esimated camera parameters to guide data acquisition for better reconstruction.
 
 **Computer Vision Intern @ Omnipresent Robot Technologies (_Feb 2022 - May 2022_)**
 - Led a ground penetration radar project for underground pipeline detection.
@@ -55,9 +58,8 @@ Extracted frames from the CelebDF dataset videos for dataset and  evaluated perf
 
 ### Image Blending using Laplacian Pyramid (Image Processing)
 
-- Programmed gaussian and laplacian pyramid for image blending based on a binary mask provided by the user through a GUI
-created for selecting a ROI on image using roipoly library in python.
-- Tuned the parameters of gaussian kernel for smooth blending between two images.
+Programmed gaussian and laplacian pyramid for image blending based on a binary mask provided by the user through a GUI
+created for selecting a ROI on image using roipoly library in python.Tuned the parameters of gaussian kernel for smooth blending between two images.
 ![Blending results](/assets/img/gaussian_blending.png)
 
 
