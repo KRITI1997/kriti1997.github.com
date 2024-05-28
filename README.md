@@ -1,5 +1,5 @@
 
-# Machine Learening Engineer, Data Enthusiast
+# Machine Learning , Data Enthusiast
 
 #### Technical Skills: Python, SQL, Kubernetes , MATLAB
 
@@ -41,10 +41,10 @@ extracted features obtaining a R-square of 0.89.
 Collaborated with medical practitioners to collect and label ear membrane data. Preprocessed the images and used augmentation techniques for improving the training data.Demonstrated a 70% accuracy by implementing **RCNN**, **Fast RCNN** and **Faster RCNN** algorithms in MATLAB.
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Conditional Variational Autoencoder on CelebA Dataset (Deep Learning)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Implemented and trained a CVAE in PyTorch for image manipulation and morphing with an acceptable MSE reconstruction loss.Developed and trained a CVAE to encode and manipulate images in CelebA database. CelebA dataset contains more than 200K celebrity images, each with 40 binary face attributes annotations (like Male, Smiling, eye glasses etc.). Each image has its own face attributes annotation, which is encoded as a 40- dimensional binary vector: 0 means that the image does not show the corresponding attribute, 1 means that it does.Once the model was trained we used the previously trained CVAE to manipulate an image by changing the attribute vector input to the encoded image.Generative models have the ability to interpolate real samples to generate non- existent manipulated samples. The interpolation simply consists in performing linear algebra in the latent space learned by the generative model. 
+
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
