@@ -25,7 +25,7 @@ extracted features obtaining a R-square of 0.89.
 **Project Assistant, Active Robotic Sensing Laboratory @ NCSU (_Jan 2023 - Present_)**
 - Investigated photogrammetric methods such as Structure from Motion for 3D reconstruction from 2D crop images.
 - Implemented and performed comparative analysis of several NeRF based deep learning pipelines on custom dataset.
-- Analysed the 3D point clouds generated from COLMAP to ascertain views and directions with incorrect esimated camera parameters to guide data acquisition for better reconstruction.
+- Analysed the 3D point clouds generated from COLMAP to ascertain views and directions with incorrect estimated camera parameters to guide data acquisition for better reconstruction.
 - Implemented BayesNeRF for uncertainity quantification in reconstruction.
 
 **Computer Vision Intern @ Omnipresent Robot Technologies (_Feb 2022 - May 2022_)**
