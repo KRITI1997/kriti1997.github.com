@@ -47,8 +47,8 @@ Collaborated with medical practitioners to collect and label ear membrane data. 
 ### Conditional Variational Autoencoder on CelebA Dataset (Deep Learning)
 
 Implemented and trained a CVAE in PyTorch for image manipulation and morphing with an acceptable MSE reconstruction loss.Developed and trained a CVAE to encode and manipulate images in CelebA database. CelebA dataset contains more than 200K celebrity images, each with 40 binary face attributes annotations (like Male, Smiling, eye glasses etc.). Each image has its own face attributes annotation, which is encoded as a 40- dimensional binary vector: 0 means that the image does not show the corresponding attribute, 1 means that it does.Once the model was trained we used the previously trained CVAE to manipulate an image by changing the attribute vector input to the encoded image.Generative models have the ability to interpolate real samples to generate non- existent manipulated samples. The interpolation simply consists in performing linear algebra in the latent space learned by the generative model.
-![Manipulated faces with sunglasses](/assets/img/recon_images_sunglasses.png)
-![Interpolated results for morphing](/assets/img/beard_man.png)
+![Manipulated faces with sunglasses](/assets/img/beard_man.png)
+![Interpolated results for morphing](/assets/img/nterpolation.png)
 
 ### Deepfake Detection (Deep Learning)
 Extracted frames from the CelebDF dataset videos for dataset and  evaluated performance of Xception Network on the curated dataset optimizing the architecture to improve validation accuracy.Generated embeddings using FaceNet by using MTCNN for cropping and isolating the daces from the image frames and implemented triplet loss in PyTorch to improve the deepfake detection accuracy.
