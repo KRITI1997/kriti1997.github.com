@@ -1,11 +1,19 @@
 
 # Machine Learning , Data Enthusiast
 
-#### Technical Skills: C++, Python, Java, MATLAB, R, OpenCV, TensorFlow, PyTorch, NumPy, Matplotlib, Scikit, Pandas Git, Seggar Embedded Studio, Nerfstudio, Flask MySQL, Linux, Windows, AWS
+## 💻 Technical Skills
+- **Software and Programming** | C++, Python, Java, MATLAB, R, OpenCV, TensorFlow, PyTorch, NumPy, Matplotlib, Scikit, Pandas
+- **Databases and Operating System** | MySQL, Linux, Windows, AWS
+- **Hardware** | Jetson Nano, Raspberry Pi, Nordic Development BLE kit
 
-## Education						       		
-- M.S., Electrical Engineering	| North Carolina State University (_May 2024_)	 			        		
-- B.S., Electronics and Communication Enigneering | Shiv Nadar University (_May 2019_)
+## 🎓 Education
+- **Master of Science, Electrical Engineering** <br>
+_North Carolina State University (Aug 2022 - May 2024)_
+- **Bachelor of Technology, Electronics and Communication Engineering** <br>
+_Shiv Nadar University (Aug 2015 - May 2019)_
+
+## Publications
+Singh, Kriti, and P. C. Jain. "Traffic control enhancement with video camera images using AI." Optical and Wireless Technologies: Proceedings of OWT 2019. Springer Singapore, 2020.
 
 ## Work Experience
 **System Design/Architecture Intern @ Tesla (_Feb 2024 - May 2024_)**
@@ -63,7 +71,6 @@ created for selecting a ROI on image using roipoly library in python.Tuned the p
 ![Blending results](/assets/img/gaussian_blending.png)
 
 
-## Publications
-Singh, Kriti, and P. C. Jain. "Traffic control enhancement with video camera images using AI." Optical and Wireless Technologies: Proceedings of OWT 2019. Springer Singapore, 2020.
+
 
 
