@@ -4,7 +4,7 @@
 ## 💻 Technical Skills
 - **Software and Programming** | C++, Python, Java, MATLAB, R, OpenCV, TensorFlow, PyTorch, NumPy, Matplotlib, Scikit, Pandas
 - **Databases and Operating System** | MySQL, Linux, Windows, AWS
-- **Hardware** | Jetson Nano, Raspberry Pi, Nordic Development BLE kit
+- **Hardware** | Jetson Nano, Raspberry Pi, Nordic Development kit
 
 ## 🎓 Education
 - **Master of Science, Electrical Engineering** <br>
