@@ -16,6 +16,9 @@ _Shiv Nadar University (Aug 2015 - May 2019)_
 Singh, Kriti, and P. C. Jain. "Traffic control enhancement with video camera images using AI." Optical and Wireless Technologies: Proceedings of OWT 2019. Springer Singapore, 2020.
 
 ## Work Experience
+**Computer Vision @ Osrostrum Inc. (_July 2024 - Present_)**
+- Implementing deep learning pipeline for reliable segmentation in point cloud scenes.
+
 **System Design/Architecture Intern @ Tesla (_Feb 2024 - May 2024_)**
 - Processed machine sensor data by querying, aggregating and analyzing the data to create an end-to-end ML pipeline.
 - Implemented state-of-the-art architectures including CNN and Transformer based models along with classical ML approaches to
