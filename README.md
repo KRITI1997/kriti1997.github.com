@@ -17,9 +17,9 @@ Singh Kriti and P. C. Jain. "Traffic control enhancement with video camera image
 
 ## Work Experience
 **Computer Vision @ Osrostrum Inc. (_July 2024 - Present_)**
-- Processed 3D pointcloud data to create heightmaps for training data and trained a MobileNet-v2 for classification task.
+- Processed 3D pointclouds to create heightmaps for training data and trained a MobileNet-v2 for classification task.
 - Optimized a rendering pipeline by focusing on triangulation of landmark points and enhancing the projection matrices for robust 3D reconstruction.
-- Trained and finetuned Mobilenet-v2 for keypoint annotation in 3D pointcloud.
+- Trained and finetuned Mobilenet-v2 for keypoint annotation in pointcloud.
 
 
 **System Design/Architecture Intern @ Tesla (_Feb 2024 - May 2024_)**
