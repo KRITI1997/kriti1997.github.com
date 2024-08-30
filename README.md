@@ -77,6 +77,8 @@ Implemented and trained a CVAE in PyTorch for image manipulation and morphing wi
 
 Extracted frames from the CelebDF dataset videos for dataset and  evaluated performance of Xception Network on the curated dataset optimizing the architecture to improve validation accuracy.Generated embeddings using FaceNet by using MTCNN for cropping and isolating the faces from the image frames and implemented triplet loss in PyTorch to improve the deepfake detection accuracy.
 
+![Poster of the project](/assets/img/poster.pdf)
+
 ### Image Blending using Laplacian Pyramid (Image Processing)
 
 Programmed gaussian and laplacian pyramid for image blending based on a binary mask provided by the user through a GUI
