@@ -13,17 +13,19 @@ _North Carolina State University (Aug 2022 - May 2024)_
 _Shiv Nadar University (Aug 2015 - May 2019)_
 
 ## Publications
-Singh, Kriti, and P. C. Jain. "Traffic control enhancement with video camera images using AI." Optical and Wireless Technologies: Proceedings of OWT 2019. Springer Singapore, 2020.
+Singh Kriti and P. C. Jain. "Traffic control enhancement with video camera images using AI." Optical and Wireless Technologies: Proceedings of OWT 2019. Springer Singapore, 2020.
 
 ## Work Experience
 **Computer Vision @ Osrostrum Inc. (_July 2024 - Present_)**
-- Implemented deep learning pipeline with 3D point cloud processing and transfer learning for classififcation in point cloud scenes with an accuracy of 98%.
+- Processed 3D pointcloud data to create heightmaps for training data and trained a MobileNet-v2 for classification task.
+- Optimized a rendering pipeline by focusing on triangulation of landmark points and enhancing the projection matrices for robust 3D reconstruction.
+- Trained and finetuned Mobilenet-v2 for keypoint annotation in 3D pointcloud.
 
 
 **System Design/Architecture Intern @ Tesla (_Feb 2024 - May 2024_)**
 - Processed machine sensor data by querying, aggregating and analyzing the data to create an end-to-end ML pipeline.
-- Implemented state-of-the-art architectures including CNN and Transformer based models along with classical ML approaches to
-detect anomalous machine behavior for predictive maintenance.
+- Compared state-of-the-art architectures including CNN and Transformer based models along with classical ML approaches to
+detect anomalous machine behavior for predictive maintenance of HVAC systems contributing to energy optimization efforts at Gigafactory Nevada.
 - Deployed validated model through Apache Airflow seamlessly integrating it with Kubernetes for scalable production deployment.
 
 
@@ -54,14 +56,21 @@ extracted features obtaining a R-square of 0.89.
 ### Acute Otitis Media Detection (Computer Vision)
 
 Collaborated with medical practitioners to collect and label ear membrane data. Preprocessed the images and used augmentation techniques for improving the training data.Demonstrated a 70% accuracy by implementing **RCNN**, **Fast RCNN** and **Faster RCNN** algorithms in MATLAB.
+
+
 ![Image labelling in MATLAB](/assets/img/image_labelling.png)
+
+
 ![RCNN Detection Results](/assets/img/rcnn_detection.png)
 
 
 ### Conditional Variational Autoencoder on CelebA Dataset (Deep Learning)
 
 Implemented and trained a CVAE in PyTorch for image manipulation and morphing with an acceptable MSE reconstruction loss.Developed and trained a CVAE to encode and manipulate images in CelebA database. CelebA dataset contains more than 200K celebrity images, each with 40 binary face attributes annotations (like Male, Smiling, eye glasses etc.). Each image has its own face attributes annotation, which is encoded as a 40- dimensional binary vector: 0 means that the image does not show the corresponding attribute, 1 means that it does.Once the model was trained we used the previously trained CVAE to manipulate an image by changing the attribute vector input to the encoded image.Generative models have the ability to interpolate real samples to generate non- existent manipulated samples. The interpolation simply consists in performing linear algebra in the latent space learned by the generative model.
+
 ![Manipulated faces with sunglasses](/assets/img/beard_man.png)
+
+
 ![Interpolated results for morphing](/assets/img/nterpolation.png)
 
 ### Deepfake Detection (Deep Learning)
