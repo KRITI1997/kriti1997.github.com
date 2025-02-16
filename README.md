@@ -17,7 +17,7 @@ _Shiv Nadar University (Aug 2015 - May 2019)_
 ## Publications
 Singh Kriti and P. C. Jain. "Traffic control enhancement with video camera images using AI." Optical and Wireless Technologies: Proceedings of OWT 2019. Springer Singapore, 2020.
 
-Kriti Singh et al. "Kriti Singh et al "Sweet Potato Yield Prediction Using Machine Learning Based on Multispectral Images Acquired from Small Unmanned Aerial Vehicle” Digital Agriculture Journal, MDPI, 2024. [Accepted]
+Kriti Singh et al."Sweet Potato Yield Prediction Using Machine Learning Based on Multispectral Images Acquired from Small Unmanned Aerial Vehicle” Digital Agriculture Journal, MDPI, 2024. [Accepted]
 
 
 
