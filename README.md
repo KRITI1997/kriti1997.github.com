@@ -85,11 +85,11 @@ Implemented and trained a CVAE in PyTorch for image manipulation and morphing wi
 
 ### Terrain Identification from Time Series Data
 
-The main aim of the project was develop a model that could predict the terrain on which a person is walking, using only data from gyroscope and accelerometers.The features were xyz coordinates from accelerometer and gyroscope. The labels were (0) standing or walking in solid ground, (1) going down the stairs, (2) going up the stairs, and (3)  walking on grass. There was a difference between sampling frequency of features and the labels.Processed the datapoints as vectors to handle the frequency mismatch.Handled class imbalance through SMOTE and trained 1D-CNN, LSTM and an ensemble network with ensemble network performaing the best in terms of f1 score, precision and recall.
+The main aim of the project was develop a model that could predict the terrain on which a person is walking, using only data from gyroscope and accelerometers.The features were xyz coordinates from accelerometer and gyroscope. The labels were (0) standing or walking in solid ground, (1) going down the stairs, (2) going up the stairs, and (3)  walking on grass. There was difference between sampling frequency of features and the labels. Processed the datapoints as vectors to handle the frequency mismatch.Handled class imbalance through SMOTE and trained 1D-CNN, LSTM and an ensemble network.
 
 ### Deepfake Detection (Deep Learning)
 
-Extracted frames from the CelebDF dataset videos for dataset and  evaluated performance of Xception Network on the curated dataset optimizing the architecture to improve validation accuracy.Generated embeddings using FaceNet by using MTCNN for cropping and isolating the faces from the image frames and implemented triplet loss in PyTorch to improve the deepfake detection accuracy.
+Extracted frames from the CelebDF dataset videos for curating the dataset and evaluated performance of Xception Network for benchmark metrics. Optimized training to improve validation accuracy by freezing the middle layers and training the last few layers on the dataset.MTCNN was used to crop and isolate the faces from image frames and embeddings were generated from pretrained FaceNet weights.Triplet loss was used to train a neural network on the facial embeddings to improve deepfake detection accuracy.
 
 [poster.pdf](https://github.com/user-attachments/files/16809242/poster.pdf)
 ![Poster of the project](/assets/img/poster.png)
