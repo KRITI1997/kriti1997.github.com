@@ -1,7 +1,7 @@
 
 # Machine Learning , Data Enthusiast
 
-[Why Should You Hire Me?](https://drive.google.com/file/d/1jp45oV3JsH69dmSe3bnLWUzYTkCYaeqD/view?usp=drive_link)
+[Why Should You Hire Me?](https://drive.google.com/file/d/1b8wz5M_A2OsnizvMXL1-sEdws2-wy8Lp/view?usp=drive_link)
 
 ## 💻 Technical Skills
 - **Software and Programming** | C++, Python, Java, MATLAB, R, OpenCV, TensorFlow, PyTorch, NumPy, Matplotlib, Scikit, Pandas
