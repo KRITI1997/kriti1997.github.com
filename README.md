@@ -1,6 +1,7 @@
 
 # Machine Learning , Data Enthusiast
 
+[Medium Blog](https://medium.com/@ksingh23)
 [Why Should You Hire Me?](https://drive.google.com/file/d/1b8wz5M_A2OsnizvMXL1-sEdws2-wy8Lp/view?usp=drive_link)
 
 ## 💻 Technical Skills
